@@ -4,4 +4,4 @@
                       =add the path for maven build
                       =select deploy on container(tomcat 8) on the post build step 
 3)run the job
-4) it must deploy on tomcat server 
+4) it must deploy on tomcat serverweffewdfd 
