@@ -1,5 +1,6 @@
 node {
     stage('GITHUB'){
+        #test
         git 'https://github.com/cherukurisai451/maven.git'
     }
     stage('build'){
