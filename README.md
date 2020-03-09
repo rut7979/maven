@@ -1,4 +1,4 @@
-# mavenjenkins 
+# mavenjenkinhvhgvgs 
 1) create a new job in jenkins
 2)job configuration : =give this git repo url m
                       =add the path for maven build
