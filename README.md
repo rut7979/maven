@@ -1,6 +1,6 @@
 # mavenjenkinhvhgvgs 
 1) create a new job in jenkins
-2)job configuration : =give this git repo url m
+2)job configuration : =give this git repo url mdsadsa
                       =add the path for maven build
                       =select deploy on container(tomcat 8) on the post build step 
 3)run the job
